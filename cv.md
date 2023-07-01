@@ -11,6 +11,7 @@ I want to try myself in IT and change my life
 * Git
 * CSS
 * HTML
+## Code Example
 ```
 const func = (num) => {
   if (num > 0) {
@@ -19,3 +20,7 @@ const func = (num) => {
   return num + 1;
 };
 ```
+## Experience
+__*JS/FE Preschool*__
+## Education
+Polotsk State University
