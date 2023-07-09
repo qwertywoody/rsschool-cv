@@ -4,7 +4,7 @@
 * mobile +375 33 382 99 50
 * e-mail qwertywoodyw27@gmail.com
 * [github](https://github.com/qwertywoody)
-* [telegram](https://t.me/qwertywoody
+* [telegram](https://t.me/qwertywoody)
 ## Briefly about me:
 I want to try myself in IT and change my life
 ## Skills:
