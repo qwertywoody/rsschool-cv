@@ -25,4 +25,4 @@ __*JS/FE Preschool*__
 ## Education
 Polotsk State University
 ## Languages: 
-A2
+English A2
