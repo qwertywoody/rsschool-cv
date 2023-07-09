@@ -24,4 +24,5 @@ const func = (num) => {
 __*JS/FE Preschool*__
 ## Education
 Polotsk State University
-## Languages: A2
+## Languages: 
+A2
